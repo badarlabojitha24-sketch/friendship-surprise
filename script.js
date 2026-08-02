@@ -1,28 +1,11 @@
 // Original message
 const fullMessage = `
-Some people come into our lives unexpectedly
-and become one of the most beautiful chapters
-of our story.
-
-Thank you for every laugh,
-every smile,
-every memory,
-and every moment we shared.
-
-You are truly one of the best people
-We've ever met.
-
-No matter how busy life gets,
-we hope our friendship always stays the same.
-
-May your life always be filled with
-happiness, success, peace,
-and endless smiles.
+Thanatho Vundey, Okkakka Nimisham Marala Marala, Pudathava Manasa.
 
 ❤️ Happy Friendship Day ❤️
 
 With lots of love,
--Boji , John 😊
+-Boji 😊
 `;
 
 function startSurprise() {

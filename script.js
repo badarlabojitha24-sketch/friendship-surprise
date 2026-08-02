@@ -9,7 +9,7 @@ const fullMessage = `
             every moment of support,💪
             and for simply being You.😇
 
-            I hope our friendship stays
+            We hope our friendship stays
             beautiful forever.🤝🏻
 
             Wishing you happiness,
@@ -18,8 +18,9 @@ const fullMessage = `
 
 ❤️ Happy Friendship Day ❤️
 
-With lots of love,
--Boji , john😊
+
+      With lots of love,
+          -Boji , john😊
 `;
 
 function startSurprise() {

@@ -1,20 +1,20 @@
 // Original message
 const fullMessage = `
             Some people enter our lives and
-            become unforgettable.
+            become unforgettable.🩷
 
             Thank you for every laugh,
-            every memory,
-            every silly conversation,
-            every moment of support,
-            and for simply being YOU.
+            every memory,😺
+            every silly conversation,😉
+            every moment of support,💪
+            and for simply being You.😇
 
             I hope our friendship stays
-            beautiful forever.
+            beautiful forever.🤝🏻
 
             Wishing you happiness,
             success,
-            and endless smiles
+            and endless smiles🙂
 
 ❤️ Happy Friendship Day ❤️
 
